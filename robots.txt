@@ -1,4 +1,6 @@
+# START nuxt-robots (indexable)
 User-agent: *
-Allow: /
+Disallow: 
 
-Sitemap: https://ollamast.com/sitemap-index.xml
+Sitemap: https://ollamast.com/sitemap_index.xml
+# END nuxt-robots
